@@ -22,6 +22,26 @@
 
 [Watch the demo on YouTube](https://youtu.be/AA5Ili0Q_xg)
 
+## 📸 Screenshots
+
+### Home Page
+![Screenshot 1](./screenshots/sc1.png)
+
+### URL Shortener
+![Screenshot 2](./screenshots/sc2.png)
+
+### Analytics Dashboard
+![Screenshot 3](./screenshots/sc3.png)
+
+### Link Details
+![Screenshot 4](./screenshots/sc4.png)
+
+### Login / Auth
+![Screenshot 5](./screenshots/sc5.png)
+
+### Mobile View
+![Screenshot 6](./screenshots/sc6.png)
+
 
 ## 🛠️ Built With
 
